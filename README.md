@@ -7,3 +7,6 @@ ImageFilter is an easy to give CIFilter effect to image.
 
 ## Screenshots
 ![Example](./ImageFilter/imageFilter.gif "Example View")
+
+## Author
+	Jaywant Khedkar
