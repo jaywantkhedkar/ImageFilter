@@ -6,4 +6,4 @@ Iphone Projects
 ImageFilter is an easy to give CIFilter effect to image.
 
 ## Screenshots
-![Example](./ImageFilter/ImageFilter.gif "Example View")
+![Example](./ImageFilter/imageFilter.gif "Example View")
