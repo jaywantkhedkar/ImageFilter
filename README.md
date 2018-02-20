@@ -1,7 +1,7 @@
 # iphoneapp
 Iphone Projects
 
-ImageFilter is an easy to give CIFilter effect to image by using apple CIFlter effects  
+ImageFilter is an easy to give CIFilter effect to image by using apple CIFilter effects. 
 
 ## ImageFilter
        
